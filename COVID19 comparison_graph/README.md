@@ -1,2 +1,2 @@
 # COVID19_comparison_graph
-comparing the progress of the epidemic across countries
+Looking at how the epidemic is spreading in different countries shows that there are differences in its progress.
