@@ -1,2 +1,2 @@
-# SQLBootcamp
-SQLBootcamp projects is coming soon 🚀
+# R Programming 
+R programming projects is coming soon 🚀
